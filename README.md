@@ -14,7 +14,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Stack Overflow data from 2017 to 2022 to better understand:
+For this project, I was interestested in using Stack Overflow data from 2018 to 2022 to better understand:
 
 1. Which programming langauges are the most popular?
 2. Which programming languages are increasing in popularity?
