@@ -28,7 +28,7 @@ This repository contains a jupiter notebook pynb file that contains all of the c
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@kevinpolitz/which-programming-language-should-you-learn-907f26b9de8f).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
