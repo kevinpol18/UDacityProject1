@@ -28,8 +28,8 @@ This repository contains a jupiter notebook pynb file that contains all of the c
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@kevinpolitz/which-programming-language-should-you-learn-907f26b9de8f).
+The main findings of the code can be found at the Medium post available [here](https://medium.com/@kevinpolitz/which-programming-language-should-you-learn-907f26b9de8f).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information like the survey itself and the results scehma at the link available [here](https://insights.stackoverflow.com/survey).
+Credit goes to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information like the survey itself and the results scehma at the link available [here](https://insights.stackoverflow.com/survey).
